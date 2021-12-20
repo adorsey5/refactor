@@ -1,4 +1,4 @@
- /*Remove browser-enforced styles & Applies CSS default vaules for every element */
+/*Remove browser-enforced styles & Applies CSS default vaules for every element */
 * {
     box-sizing: border-box;
     padding: 0;
