@@ -1,10 +1,10 @@
-/*Remove browser-enforced styles & Applies CSS default vaules for every element */
+/*Remove browser-enforced styles & Applied CSS default vaules for every element */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
- /* Style the background color for the content in the body */
+ /* Styled the background color for the content in the body */
 body {
     background-color: #d9dcd6;
 }
@@ -17,17 +17,17 @@ body {
     color: #ffffff;
 }
 /* apply styles to <h1> */
-header h1 {
+.header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-header h1 .seo {
+.header h1 .seo {
     color: #d9dcd6;
 }
 
 /* Moved <nav> element to the right, styled text and padding and margin */
-header nav {
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -35,12 +35,12 @@ header nav {
     font-size: 20px;
 }
 
-header nav ul {
+.header nav ul {
     list-style-type: none;
 }
 
 /* Moved the <nav> elements inline, styled the left margin 25px*/
-header nav ul li {
+.header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -54,7 +54,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* HERO DIV WITH BACKGROUND IMAGE */
 .hero {
     height: 800px;
     width: 100%;
@@ -74,13 +74,13 @@ p {
     margin-left: 25px;
 }
 
-section {
+.content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-/* Styling the benefits section */
+/* Styling the benefits aside section */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -95,16 +95,6 @@ section {
 .improvements {
     margin-bottom: 32px;
     color: #ffffff;
-}
-
-.improvements h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.improvements h3 {
-    margin-bottom: 10px;
-    text-align: center;
 }
 
 .improvements h3 {
