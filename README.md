@@ -1,7 +1,14 @@
 # :trophy: The Horiseon Refactor Challenge :trophy:
 
 ## Overview :book:
-For this challenge I was assigned to refactor and existing webpage in order to build on accessibily and search engine optimization (SEO). 
+For this challenge I was assigned to refactor an existing webpage in order to build on accessibility and search engine optimization (SEO) by structuring HTML semantic elements and consolidating CSS selectors.
+
+### User Story :notebook_with_decorative_cover:
+```
+AS A marketing agency
+I WANT a codebase that follows accessibility standards
+SO THAT our own site is optimized for search engines
+```
 
 ### Client's Acceptance Criteria :pencil2:
 ```
@@ -21,7 +28,7 @@ THEN I find a concise, descriptive title
 ---
 ## Features
 
-* Organized the contents
+* Organized content
 * Interactive links
 * Enhanced attributes for webpage accessibility 
 
@@ -31,8 +38,12 @@ THEN I find a concise, descriptive title
 
 Click the following link to visit the webpage:
 
+[A live link to the webpage](https://adorsey5.github.io/refactor/)
+
 
 The following image is a screenshot of the webpage:
+
+![]("./assets/images/Horiseon-refactor-screen-shot.png")
 
 ---
 ## :capital_abcd:Languages and Technology Used :computer:
