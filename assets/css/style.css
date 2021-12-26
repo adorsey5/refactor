@@ -11,14 +11,14 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
-/* apply 20px styles to every side of <header> */
+/* Applied styles to <header> */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-/* apply styles to <h1> */
+/* Applied styles to <h1> */
 .header h1 {
     display: inline-block;
     font-size: 48px;
@@ -36,20 +36,20 @@ body {
     font-size: 20px;
 }
 
-/* Moved and styled the <nav> list item elements */
+/* Moved and styled the <nav> elements */
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
     list-style-type: none;
 }
 
-/* Applies styles and color to all of the <a> elements*/
+/* Applied styles and color to all of the <a> elements*/
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
-/* HERO DIV WITH BACKGROUND IMAGE */
+/* Styled the HERO image */
 .hero {
     height: 800px;
     width: 100%;
@@ -75,7 +75,7 @@ a {
     margin-left: 20px;
 }
 
-/* Styling the Main Content Sections */
+/* Styled the <main> content sections */
 .service {
     margin-bottom: 20px;
     padding: 50px;
@@ -93,7 +93,7 @@ a {
     font-size: 36px;
 }
 
-/* Styling the services aside section */
+/* Styled the services aside section */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -120,7 +120,7 @@ a {
     max-width: 150px;
 }
 
-/* FOOTER */
+/* Styled the <footer> */
 
 footer {
     padding: 30px;

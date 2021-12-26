@@ -56,7 +56,7 @@ The following image is a screenshot of the webpage:
 
 * VSCode
 * GitBash
-* Emojis from "Markdown Emoji" extension
+* Emojis from "Markdown Emoji" VSCode extension *
 
 ---
 
@@ -64,7 +64,7 @@ The following image is a screenshot of the webpage:
 
 For my first challenge I had a great deal of guidance from:
 
- * UM Coding Bootcamp Modules/As
+ * UM Coding Bootcamp Modules/GitLab Respository
  * UM Coding Bootcamp instructor and teacher assistants (TAs)
  * UM Coding Bootcamp Tutor: Jeremy Jones
  * UM Coding Bootcamp Classmates
